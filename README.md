@@ -31,3 +31,16 @@ Experts/Participants showed keen interest on using the tool and framework. Polic
 ## Way forward
 As part of next phase: Support ITC and partners’ drought proofing and water security activities at watershed level and beyond to sub-basin scale through use of scientific and evidence-based tools for planning Develop a tool like drought proofing for Unit water security planning which can be used by ITC and its NGO teams. Improving and expanding the capabilities of developed drought proofing tool and framework. Train ITC directly and through them their NGOs (across India) on both drought proofing & unit water security - concept, framework and tools and provide handholding support to adopt the frameworks across all operational catchments decided by ITC.
 
+
+### Project Document Folders
+#### **Drought Proofing:**
+**Data :** Field data (Rainfall, temperature, crop, land & soil, domestic, GW depth) of ITC's agri-catchments (Mysore, Sehore, halwar & Prakasam)
+**Reports :** Project reports, field visit reports, workshop reports
+**PPT's :** PPT's on drought proofing 
+**Tool :** Drought proofing tool, user and technical manual.
+
+#### **Water Security:**
+**Data :** Field data of ITC's factory catchments (Uper bhavani basin, Maluru, Ghod basin, Mureru & SHarangpur)
+**Reports :** Project reports, field visit reports, workshop reports
+**PPT's :** PPT's on Water Security
+**Excel Calculation :** Calculation of water security for ITC's factory catchments in Excel sheets/interface
